@@ -1,7 +1,7 @@
 # Using to_json
 
 ## Objectives
-
+asdfasdfd
 1.  Use the `to_json` method to render an object as JSON.
 2.  Explain how to render different formats from the same controller action.
 
